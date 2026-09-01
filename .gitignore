@@ -1,2 +1,35 @@
 node_modules/
 npm-debug.log
+playwright-report/
+test-results/
+.nyc_output/
+coverage/
+
+### vim ###
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+.versions
+
+### editors ###
+.vscode
+.idea
+*.sublime-*
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Agents
+.claude
